@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Prints Hello world and goodbye to Kent
+ * Prints Hello world and goodbye to Kent.
  *
  * @author Jaydin Madore
  * @version 1.0
