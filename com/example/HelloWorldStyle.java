@@ -8,7 +8,6 @@ package com.example;
  * @since 2024/02/13
  */
 
-
 // HelloWorldStyle class
 public final class HelloWorldStyle {
 
